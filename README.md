@@ -7,7 +7,7 @@ A deep learning-based project to recognize and classify hand gestures using a Co
 ## 📁 Dataset
 
 - **Name:** [LeapGestRecog](https://www.kaggle.com/datasets/gti-upm/leapgestrecog)
-- **Source:** Kaggle
+- **Source:** Kaggle(https://www.kaggle.com/code/medhajha810/hand-gesture/). 
 - **Classes:** 10 gesture categories:
   - `00_palm`
   - `01_l`
